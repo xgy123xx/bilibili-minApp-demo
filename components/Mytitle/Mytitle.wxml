@@ -1,0 +1,21 @@
+<!--components/Mytitle/Mytitle.wxml-->
+<view class="my_title">
+    <!-- logo -->
+    <navigator class="logo" target="" url="" hover-class="navigator-hover" open-type="navigate">
+        <image src="../../icons/logo2.png"></image>
+    </navigator>
+    <!-- 搜索图标 -->
+    <view class="search-icon" hover-class="none" hover-stop-propagation="false">
+        <image  src="../../icons/search.png">
+        </image>
+    </view>
+    <!-- 头像图标 -->
+    <view class="user_icon">
+        <image  src="../../icons/user.png">
+        </image>
+    </view>
+    <!-- 下载app图标 -->
+    <view class="down_app">
+        下载 App
+    </view>
+</view>

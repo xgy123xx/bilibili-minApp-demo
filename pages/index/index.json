@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "Mytitle":"../../components/Mytitle/Mytitle"
+  },
+  "navigationBarTitleText": "bilibili"
+}
